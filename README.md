@@ -1,3 +1,5 @@
+NAME:JANSI RANI A A
+REG NO: 212224040130
 # Exno:1
 Data Cleaning Process
 
