@@ -134,15 +134,15 @@ df.fillna(method='bfill')#back fill
 
 ```
 <img width="924" height="440" alt="Screenshot (1035)" src="https://github.com/user-attachments/assets/117a8392-41e8-407f-bb40-0c07b773d787" />
+
 ```
 
 df.interpolate()
 
 ```
+
 <img width="935" height="447" alt="Screenshot (1036)" src="https://github.com/user-attachments/assets/5c73190f-a799-45bc-9baf-27c64a58873e
 
-
-         
 ## Result:
 
 The given dataset was successfully cleaned by handling missing values, removing duplicates, and eliminating outliers using IQR and Z-score methods. The cleaned data was then saved to a file for further analysis.
