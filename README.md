@@ -141,7 +141,7 @@ df.interpolate()
 
 ```
 
-<img width="935" height="447" alt="Screenshot (1036)" src="https://github.com/user-attachments/assets/5c73190f-a799-45bc-9baf-27c64a58873e'/>
+<img width="935" height="447" alt="Screenshot (1036)" src="https://github.com/user-attachments/assets/b29bf32a-8a45-4a2b-936a-fad9554cbbf5" />
 
 ## Result:
 
